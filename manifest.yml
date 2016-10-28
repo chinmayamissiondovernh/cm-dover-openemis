@@ -2,5 +2,5 @@
 applications:
 - name: bcm-dover-nh-oe
   host: bcm-dover-nh-oe
-  memory: 1512B
+  memory: 512M
   
